@@ -12,19 +12,19 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Docker",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
+    "title": "Linux",
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
+    "title": "C++",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Python(Basic)",
+    "imageSrc": "../skills/figma.png"
   }
 ]
