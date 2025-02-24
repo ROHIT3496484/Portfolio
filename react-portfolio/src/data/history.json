@@ -5,7 +5,7 @@
     "startDate": "Jan, 2024",
     "endDate": "Feb 2025",
     "experiences": ["Worked on Human Resource Management System", "Developed an advanced Human Resource Management System for CallHealth Implemented automated onboarding appointment scheduling CTC and tax calculations attendance tracking payroll processing performance evaluations and benefits management" ," Streamlined HR operations reducing manual processes by 40 percent and improving data accuracy by 60 percent while ensuring compliance with tax regulations and industry standards","Enabled real time access to HR data leading to a 35 percent increase in employee satisfaction", "25 percent improvement"],
-    "imageSrc": ""
+    "imageSrc": "/assets/history/Brane-Enterprises.jpg"
   },
   {
     "role": "Software Engineer (Technical Lead)",
@@ -13,17 +13,17 @@
     "startDate": "Aug, 2022",
     "endDate": "Dec, 2023",
     "experiences": ["Worked as Devops Engineer", "Managed vSphere AIO and HA installations executed flawless setups for optimal performance and Led successful DRA upgrade and downgrade initiatives Led customization efforts for Grafana dashboards enhancing visualization and data representation. Worked on security vulnerabilities(Nessus scan and Corona scan) and DRA components evolution.Managed log debugging processes optimizing system performance and troubleshooting."],
-    "imageSrc": ""
+    "imageSrc": "/history/HCLTech.jpg"
   },
   {
     "role": "Teaching Assistant",
-    "organisation": "IIT ROpar",
+    "organisation": "IIT Ropar",
     "startDate": "Sep, 2020",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked as Teaching Assistant with Master of Technology",
+      "Worked on Different Different TA's Labs"
     ],
-    "imageSrc": ""
+    "imageSrc": "/history/iit-ropar-logo.jpg"
   }
 ]
