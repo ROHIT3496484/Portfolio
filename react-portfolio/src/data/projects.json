@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "React Work",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React", "JavaScript", "JSX"],
+    "source": "https://github.com/ROHIT3496484/React-work/"
   },
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/ROHIT3496484/React/"
   },
   {
-    "title": "Project C",
+    "title": "Music Genres Classification",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Preprocessed the audio signals from GTZAN dataset with the help of librosa python audio library
+– Used","Recurrent Neural Network(LSTM) model to classify a given audio sample into one of the 10 different music genres.
+– Analysed and compared the performance of LSTM models with different parameters.",
+    "skills": ["Python", "", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/ROHIT3496484/Music-Genres-Classification/"
   }
 ]
