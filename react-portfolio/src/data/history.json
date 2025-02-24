@@ -13,7 +13,7 @@
     "startDate": "Aug, 2022",
     "endDate": "Dec, 2023",
     "experiences": ["Worked as Devops Engineer", "Managed vSphere AIO and HA installations executed flawless setups for optimal performance and Led successful DRA upgrade and downgrade initiatives Led customization efforts for Grafana dashboards enhancing visualization and data representation. Worked on security vulnerabilities(Nessus scan and Corona scan) and DRA components evolution.Managed log debugging processes optimizing system performance and troubleshooting."],
-    "imageSrc": "/history/HCLTech.jpg"
+    "imageSrc": "/assets/history/HCLTech.jpg"
   },
   {
     "role": "Teaching Assistant",
@@ -24,6 +24,6 @@
       "Worked as Teaching Assistant with Master of Technology",
       "Worked on Different Different TA's Labs"
     ],
-    "imageSrc": "/history/iit-ropar-logo.jpg"
+    "imageSrc": "/assets/history/iit-ropar-logo.jpg"
   }
 ]
