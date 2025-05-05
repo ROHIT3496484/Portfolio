@@ -1,5 +1,6 @@
 import React from "react";
-
+import aboutImage from "../../assets/about/aboutImage.jpg";
+import cursorIcon from "../../assets/about/cursorIcon.png";
 import styles from "./About.module.css";
 
 export const About = () => {
@@ -8,18 +9,17 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="/assets/about/aboutImage.jpg" height={200} width={200}
+          src={aboutImage} height={200} width={200}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="/assets/about/cursorIcon.png" alt="Cursor icon" />
+            <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I’m a Frontend Developer and Solutions Engineer with over 3 years of experience in delivering scalable web solutions and supporting enterprise-level integrations. I’ve led the development of a Human Resource Management System for a $300M healthcare company, integrating 20+ REST APIs and WebSockets to enable real-time data workflows and automation. My core strengths include ReactJS, JavaScript, HTML/CSS, and I’m well-versed in tools like Docker, Git, Grafana, and VMware. I regularly work with REST APIs, JSON payloads, browser DevTools, and basic SQL for reporting needs. I’ve also set up GTM events, debugged embedded content, and managed DNS configurations. I bring a strong ownership mindset, enjoy solving ambiguous technical challenges, and thrive in fast-paced startup environments.
               </p>
             </div>
           </li>

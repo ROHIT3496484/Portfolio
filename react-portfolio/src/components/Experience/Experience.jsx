@@ -5,6 +5,8 @@ import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
 
+// filepath: c:\Users\Rohit\Desktop\React JS\Portfolio\Portfolio\react-portfolio\src\utils\index.js
+
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
